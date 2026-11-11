@@ -1,0 +1,25 @@
+Diamond — HanSoloSnipe, CC BY4.0.
+https://sketchfab.com/3d-models/diamond-low-poly-405cc8175019452daa01999fd1466731
+https://creativecommons.org/licenses/by/4.0/
+Changes: orientation, affine elongated oval proportions, UVs, material.
+
+Studio Small09 HDR — Poly Haven, CC0.
+https://polyhaven.com/a/studio_small_09
+https://polyhaven.com/license
+
+Eye reference — HaughtyGrayAlien, CC BY-SA4.0.
+https://sketchfab.com/3d-models/eye-of-agamotto-f59cd805ed7b44249552eba07629a860
+https://creativecommons.org/licenses/by-sa/4.0/
+Changes: masked/cropped look-dev render, Hunyuan3D-2mv generated derivative,
+topology repair, QEM60k, UV/normal bake, runtime framing. Attribution/sharealike retained.
+Tencent tool terms separately noted in LICENSES.md; no unrestricted CC0 assertion.
+
+Orb — Hunyuan3D-2mv generated from look-dev production-prop image reproduced by
+The PropSmith (2014):
+https://thepropsmith.weebly.com/blog/top-props-guardians-of-the-galaxy
+Marvel design/photograph rights retained; no unrestricted license asserted.
+The source photograph is NOT a runtime texture.
+
+Gauntlet — earlier owner high-precision model, /workspace/im3d/a13.
+Specific generation receipt absent; adjacent Hunyuan workflow verified.
+No CC0/unrestricted/fan-download claim. Marvel/Tencent terms noted in LICENSES.md.

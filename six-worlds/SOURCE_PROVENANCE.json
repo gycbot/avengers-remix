@@ -1,0 +1,35 @@
+{
+  "source": "Actual Igloo/abeto App3D-d68cb154.js",
+  "source_body_preserved_from_published_v6": true,
+  "source_input": "original pointer pool/raw event forwarders and MainController wheel/touch/key methods",
+  "scope": "Existing CubesScene hero and themed portrait detail, not original whole-site jF/chamber/JF route stack",
+  "new_QA_clock_shipped": false,
+  "native_clock_test": {
+    "seconds_sampled": 100,
+    "chapters": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cycles": [
+      0,
+      1,
+      2
+    ],
+    "programs": 24,
+    "resources": [
+      [
+        70,
+        63
+      ]
+    ],
+    "runtime_compile_readback": 0
+  },
+  "browser_qa": false,
+  "shader_camera_lighting_edits": 0,
+  "source_sha256": "e25f1c14079fb4e5e492c68e487b296ff06f5e385af90af4278f64bfe004a0ac",
+  "production_renderer_sha256": "bcb62c06660a4342bcdd168034426be4d7a1101028f1c07d977c9954db36f9d0"
+}

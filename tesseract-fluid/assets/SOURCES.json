@@ -1,0 +1,14 @@
+{
+  "loki.webp": {
+    "source": "https://terrigen-cdn-dev.marvel.com/content/prod/2x/017lok_ons_crd_02.jpg",
+    "original_dimensions": [
+      1080,
+      1228
+    ],
+    "local_dimensions": [
+      1080,
+      1118
+    ],
+    "edit": "裁去顶部110px分类条；WebP高质量压缩；保留原始肖像，不伪造透明抠图。"
+  }
+}

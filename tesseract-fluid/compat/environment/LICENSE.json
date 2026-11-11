@@ -1,0 +1,7 @@
+{
+  "asset": "Poly Haven StudioSmall09",
+  "license": "CC0",
+  "source": "https://polyhaven.com/a/studio_small_09",
+  "derivedFrom": "exact1kRGBE source archived in assembly-lab/assets/HDRI_LICENSE.json",
+  "derivation": "standard latlong\u2192cubemap bilinear reprojection512\u00b2each; stock Reinhard tone map exposure3.2 and IEC sRGB encoding; WebP95; only fallback LDR cube path, primary cubemap unchanged"
+}

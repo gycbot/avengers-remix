@@ -1,0 +1,11 @@
+{
+  "title": "Arc Reactor",
+  "author": "Heiko Jakob",
+  "source": "https://poly.pizza/m/efgURjIpJbm",
+  "source_glb": "https://static.poly.pizza/a044d325-5a97-42e4-8e5e-18e0961d8da0.glb.br",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0/",
+  "retrieved": "2026-11-10 Asia/Shanghai",
+  "glb_sha256": "a1ac1ae31b829ee54c47ff48b1b57322294be93d6710d2368fb16dbfbd005a60",
+  "changes": "Lossless gzip transport; original92parts/positions/normals/indices unchanged, affine centering/scale and source Lusion optical material assignments. No authored model primitives."
+}

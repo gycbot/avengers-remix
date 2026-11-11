@@ -1,0 +1,31 @@
+{
+  "spider.webp": {
+    "source": "https://terrigen-cdn-dev.marvel.com/content/prod/2x/005smp_ons_crd_02.jpg",
+    "original_dimensions": [
+      1080,
+      1228
+    ],
+    "local_dimensions": [
+      1080,
+      1118
+    ],
+    "edit": "裁去顶部110px分类条；WebP高质量压缩；保留原始肖像，不伪造透明抠图。"
+  },
+  "spider-cutout.webp": {
+    "source": "https://terrigen-cdn-dev.marvel.com/content/prod/2x/005smp_ons_crd_02.jpg",
+    "original_dimensions": [
+      1080,
+      1228
+    ],
+    "local_dimensions": [
+      1080,
+      1118
+    ],
+    "edit": "由已下载官方肖像本地制作人工人物轮廓 alpha 遮罩，羽化边缘和裁切边界；不是官方透明立绘。"
+  },
+  "spider-person-mask.png": {
+    "source": "local-derived",
+    "derived_from": "spider.webp",
+    "edit": "原创人工人物轮廓遮罩，仅供制作/追溯；不作为官方素材。"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "iron-man.webp": {
+    "source": "https://terrigen-cdn-dev.marvel.com/content/prod/2x/002irm_ons_crd_03.jpg",
+    "original_dimensions": [
+      1080,
+      1228
+    ],
+    "local_dimensions": [
+      1080,
+      1118
+    ],
+    "edit": "裁去顶部110px分类条；WebP高质量压缩；保留原始肖像，不伪造透明抠图。"
+  },
+  "cap.webp": {
+    "source": "https://terrigen-cdn-dev.marvel.com/content/prod/2x/003cap_ons_crd_03.jpg",
+    "original_dimensions": [
+      1080,
+      1228
+    ],
+    "local_dimensions": [
+      1080,
+      1118
+    ],
+    "edit": "裁去顶部110px分类条；WebP高质量压缩；保留原始肖像，不伪造透明抠图。"
+  },
+  "thor.webp": {
+    "source": "https://terrigen-cdn-dev.marvel.com/content/prod/2x/004tho_ons_crd_03.jpg",
+    "original_dimensions": [
+      1080,
+      1228
+    ],
+    "local_dimensions": [
+      1080,
+      1118
+    ],
+    "edit": "裁去顶部110px分类条；WebP高质量压缩；保留原始肖像，不伪造透明抠图。"
+  }
+}

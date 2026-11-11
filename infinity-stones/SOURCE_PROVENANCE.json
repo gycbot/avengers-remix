@@ -1,0 +1,80 @@
+{
+  "reference": "https://www.igloo.inc/",
+  "author": "abeto / https://abeto.co/",
+  "originalRuntimeSHA256": "3e3e89c4d42f27652f6b413e525cfeb9198f46522d5fb35ec073e3f53aa557a3",
+  "originalRuntimeBytes": 1486882,
+  "preservedRuntimePrefixUnchanged": false,
+  "originalClasses": [
+    "jF",
+    "aF",
+    "GF",
+    "JF",
+    "jL",
+    "u3"
+  ],
+  "adaptation": "Original six-stone controller/compositor and input/audio, licensed BVH gems, generated Orb/Eye, physical Aether, actual approved HOLO 4D projection and mature GPU-history neural filaments",
+  "environment": "Original cubes_env.exr to PMREM; KTX2 normals/roughness/noise",
+  "sourceShaderBodies": "Byte-identical; not new approximations",
+  "copyright": "Original source/art rights remain with their owners; no claim of MIT or redistribution permission. Official look-dev images are not runtime textures.",
+  "canonicalReferences": [
+    "https://www.marvel.com/watch/trailers-and-extras/infinity-stones-in-the-mcu-compilation",
+    "https://www.qagoma.qld.gov.au/stories/marvel-infinity-stones/"
+  ],
+  "nativeEvidenceOnly": true,
+  "originalFixedURL": "https://v6--avengers-remix-b1.deed.page/six-worlds/",
+  "matureCorrection": {
+    "at": "2026-11-10 Asia/Shanghai",
+    "entryGraph": "index -> app -> original jF host -> ip-adapter -> mature-runtime",
+    "licenses": "LICENSES.md",
+    "assetsReceipt": "qa/mature/ASSET_SOURCES.json",
+    "shader": "Actual drei/N8Programs BVH internal-bounce shader; marked MRT/frost compatibility",
+    "publicRelease": "Standalone infinity-stones clock-corrected release payload; exact fixed version declared by public publish receipt",
+    "approvedRefractionLock": "qa/mature/APPROVED_REFRACTION_LOCK.json; byte-identical shader/material",
+    "chapterTelemetry": "Six stone chapters only;60s continuous forward/back idle loop, input resumes after6s"
+  },
+  "originalVersionRetention": "Historical fixedv6 is no longer retained by host after later shared versions; exact65-file offline v6 preserved",
+  "t31FullbleedDetail": {
+    "concepts": "Six owner-provided AI-generated crystal-interior JPGs; actual1280x720; no third-party photography license claimed",
+    "localSourceDirectory": "assets/detail-fullbleed/",
+    "runtimeTextures": [
+      "assets/detail-space.webp",
+      "assets/detail-mind.webp",
+      "assets/detail-reality.webp",
+      "assets/detail-power.webp",
+      "assets/detail-time.webp",
+      "assets/detail-soul.webp"
+    ],
+    "preparation": "1.6x Lanczos + conservative UnsharpMask(radius1.05,55%,threshold4),2048x1152; no neural super-resolution",
+    "techniques": "Original jF compositor/GSAP; stock Three GPUComputationRenderer MIT; original Igloo/atyuwen BitangentNoise4D; marked local facet-gradient/flow adapter",
+    "scope": "All detail views replaced; publishedv4 restored first; stoppedt30 WIP discarded; main approved optics unchanged"
+  },
+  "t32GaussianAndDOM": {
+    "gaussian": "Official Three HorizontalBlurShader/VerticalBlurShader MIT, two9tap passes baked once lazily perstill into1024x576 FP16; no CSS/fullscene blur",
+    "focusLayer": "Original unblurred gradients for travelling glints; existing4096 GPU particles unchanged and rendered afterward",
+    "ui": "Production DOM retained; explicit readiness/isolated z0stage,z20HUD/scrim/metadata refresh on open transitions",
+    "evidence": "NativeWebGL + actualproductionDOM/nonbrowser documentlayout contact. No extra caption labels; not a Chrome screenshot"
+  },
+  "sourceControllerRevision": "Only jF controller construction/index routing edited: one original aF scene + JF detail; original optical shader bodies retained. Prefix before jF unchanged versus v6.",
+  "t33to35": {
+    "detailText": "Original zF centered500px column, originalIBM Plex Mono Medium24/18,25px blocks; crisp DOM outside bloom",
+    "realityDetailSHA256": "466832f25ac85beb684ac85d3a6460a3f748fa1837f63c1fe878613fd54fdb0c",
+    "space": "Exact16v/32e/24f 4D projection; actual HOLO/stock Line2",
+    "mind": "GPU64x48 history + original curl field + stock soft Line2",
+    "aether": "Stock Three physical transmission + realHDR radiance/Beer attenuation/dispersion; mature MC surface",
+    "releaseScope": "six chapters + six details only"
+  },
+  "v8Revision": {
+    "liquid": "Existing MIT drei/N8 + three-mesh-bvh barycentric smooth-normal isosurface raytrace; no new asset",
+    "optics": "IOR1.42,3bounces,FAST_CHROMA,measured Beer path absorption and Schlick real-HDR reflection",
+    "deformationHz": 30,
+    "renderHz": "Full-rate target; device60fps not verified",
+    "privatePhotoSources": "qa/v8-references/SOURCES.json",
+    "approvedGemFunctionSHA256": "a1e80ec6cab018f2347eb0324ea17adb878f47731c0dbaa0e636879a2d90b1bc",
+    "liquidEnvironment": {
+      "source": "https://polyhaven.com/a/studio_small_03",
+      "license": "CC0",
+      "path": "assets/mature/studio_small_03_1k.hdr",
+      "sha256": "30933d55e45f0795daf49f3cbefbe0e5ebcb821ee04fb0a2818c02ffc3938817"
+    }
+  }
+}

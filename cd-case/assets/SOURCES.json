@@ -1,0 +1,41 @@
+{
+  "assembly-cover.webp": {
+    "sources": [
+      "https://terrigen-cdn-dev.marvel.com/content/prod/2x/002irm_ons_crd_03.jpg",
+      "https://terrigen-cdn-dev.marvel.com/content/prod/2x/003cap_ons_crd_03.jpg",
+      "https://terrigen-cdn-dev.marvel.com/content/prod/2x/004tho_ons_crd_03.jpg"
+    ],
+    "local_dimensions": [
+      1400,
+      1400
+    ],
+    "edit": "Official Marvel portrait crops; lifted photographic midtones (gamma .73), original local archive typography. Not an official released cover."
+  },
+  "assembly-disc.webp": {
+    "sources": [
+      "https://terrigen-cdn-dev.marvel.com/content/prod/2x/002irm_ons_crd_03.jpg",
+      "https://terrigen-cdn-dev.marvel.com/content/prod/2x/003cap_ons_crd_03.jpg",
+      "https://terrigen-cdn-dev.marvel.com/content/prod/2x/004tho_ons_crd_03.jpg"
+    ],
+    "local_dimensions": [
+      500,
+      500
+    ],
+    "edit": "由已下载官方钢铁侠、美国队长、雷神肖像本地重新排版、调色及原创字体设计；不是官方原版海报或授权唱片封面。"
+  },
+  "assembly-disc-holo.png": {
+    "sources": [
+      "https://terrigen-cdn-dev.marvel.com/content/prod/2x/002irm_ons_crd_03.jpg",
+      "https://terrigen-cdn-dev.marvel.com/content/prod/2x/003cap_ons_crd_03.jpg",
+      "https://terrigen-cdn-dev.marvel.com/content/prod/2x/004tho_ons_crd_03.jpg",
+      "https://terrigen-cdn-dev.marvel.com/content/prod/2x/009drs_ons_crd_02.jpg",
+      "https://terrigen-cdn-dev.marvel.com/content/prod/2x/017lok_ons_crd_02.jpg",
+      "https://terrigen-cdn-dev.marvel.com/content/prod/2x/019tha_ons_crd_03.jpg"
+    ],
+    "local_dimensions": [
+      1200,
+      1200
+    ],
+    "edit": "Six official portrait crops composed as original foil-edged die-cut stickers with local archive badges. Transparent annulus exposes the original live holographic disc shader; no official Avengers logo/emblem was fabricated."
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "iron-man": {
+    "outer": {
+      "url": "https://cdn.marvel.com/content/2x/002irm_ons_inl_11.jpg",
+      "original_dimensions": [
+        1080,
+        566
+      ],
+      "role": "official battle/action still, full-frame editorial insert"
+    },
+    "inner_label": {
+      "url": "https://cdn.marvel.com/content/2x/002irm_ons_inl_06.jpg",
+      "role": "TONY STARK / distinct civilian/unmasked portrait",
+      "original_dimensions": [
+        1080,
+        720
+      ]
+    },
+    "output_dimensions": [
+      1200,
+      1200
+    ],
+    "grade": "shared saturation .84, contrast1.035, gamma .91; no AI upscaling"
+  },
+  "cap": {
+    "outer": {
+      "url": "https://cdn.marvel.com/content/2x/003cap_ons_inl_09.jpg",
+      "original_dimensions": [
+        1080,
+        608
+      ],
+      "role": "official battle/action still, full-frame editorial insert"
+    },
+    "inner_label": {
+      "url": "https://cdn.marvel.com/content/2x/003cap_ons_crd_03.jpg",
+      "role": "STEVE ROGERS / distinct civilian/unmasked portrait",
+      "original_dimensions": [
+        1080,
+        1118
+      ]
+    },
+    "output_dimensions": [
+      1200,
+      1200
+    ],
+    "grade": "shared saturation .84, contrast1.035, gamma .91; no AI upscaling"
+  },
+  "thor": {
+    "outer": {
+      "url": "https://cdn.marvel.com/content/2x/004tho_ons_inl_05.jpg",
+      "original_dimensions": [
+        1080,
+        720
+      ],
+      "role": "official battle/action still, full-frame editorial insert"
+    },
+    "inner_label": {
+      "url": "https://www.hollywoodreporter.com/wp-content/uploads/2016/08/tom_hiddleston_chris_hemsworth_instagram_h_2016.jpg",
+      "role": "THOR ODINSON / cast-published Thor Ragnarok set publicity photograph in casual clothes; ©Chris Hemsworth Instagram, reproduced by Hollywood Reporter; original928x696; not a studio publicity still",
+      "original_dimensions": [
+        488,
+        566
+      ]
+    },
+    "output_dimensions": [
+      1200,
+      1200
+    ],
+    "grade": "shared saturation .84, contrast1.035, gamma .91; no AI upscaling"
+  },
+  "strange": {
+    "outer": {
+      "url": "https://cdn.marvel.com/content/2x/009drs_ons_inl_01.jpg",
+      "original_dimensions": [
+        1080,
+        578
+      ],
+      "role": "official battle/action still, full-frame editorial insert"
+    },
+    "inner_label": {
+      "url": "https://cdn.marvel.com/content/2x/009drs_ons_inl_07.jpg",
+      "role": "STEPHEN STRANGE / distinct civilian/unmasked portrait",
+      "original_dimensions": [
+        1080,
+        556
+      ]
+    },
+    "output_dimensions": [
+      1200,
+      1200
+    ],
+    "grade": "shared saturation .84, contrast1.035, gamma .91; no AI upscaling"
+  },
+  "Grokko": {
+    "font_source": "/workspace/team/queue/artifacts/t153u-grokko-type-atlas-char/remotion/public/fonts/NotoSansSC-Black.otf",
+    "type_atlas_source": "/workspace/team/queue/artifacts/t135u-explore-samples/remotion/src/GrokkoTypeAtlas.tsx",
+    "wordmark": "Grokko / NotoSansSC Black 900 / letter spacing -.02em",
+    "palette": [
+      "#161614",
+      "#7c3aed",
+      "#a855f7"
+    ],
+    "implementations": [
+      "collector foil sticker, actual MeshPhysicalMaterial iridescence",
+      "negative bump engraved inscription, actual MeshPhysicalMaterial clear IOR1.49"
+    ]
+  }
+}

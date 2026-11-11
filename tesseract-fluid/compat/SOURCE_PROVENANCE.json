@@ -1,0 +1,43 @@
+{
+  "base": "https://xuxmin.github.io/pbf/",
+  "repository": "https://github.com/xuxmin/pbf",
+  "license": "MIT Copyright (c) 2020 Xianmin Xu",
+  "source_files": {
+    "js/shaders/common.js": "fe1082916a67b432b6acf762dd6d46a204010907b82d754a05edd5ef32ea4239",
+    "js/shaders/predictPosition.js": "ba6cb137e4b4f538fe00a0def2807bc800b36e289b3e553a6ce6b97a3de4f097",
+    "js/shaders/copyTexture.js": "a82542e94e8379336128829c6b5b0406efca899b1caa8016ad05271a80338975",
+    "js/shaders/renderParticles.js": "1ea10d251e49787e4aadcf54b2fe5c1770b14af8339adb744a75f45c1424d89c",
+    "js/shaders/searchNeighbors.js": "c7d2e07521640fa86be4c56c7a6170a86d7c478ccdca5fab05f4dc844fa7a249",
+    "js/shaders/calculateViscosity.js": "a4d39eb7949282d4e7e37ddcb01014829eaca311cbdeed0305c741428e74df98",
+    "js/shaders/calculateLambda.js": "c94e8fb928df953fb36435b7db78323feb4448aa091017e0679dd5547cf67ad1",
+    "js/shaders/calculateDeltaP.js": "cc891e0ad1759c443ae7165c5055a4d5da19016067aaad6b7fb6be4a10be5301",
+    "js/shaders/calculateVorticity.js": "911340a3bebe44a01539a51239c4a154ad66ab049b9be285f95a2a3c713558e2",
+    "js/shaders/applyVorticity.js": "1dbde6a3f3f2b389738d17407299056981406a47e3a11769f71a16d97e8db7b2",
+    "js/shaders/integrateVelocity.js": "e333513259de10213982373b9890e0c1be4a8f74e0091e7ecd02eac8f5f95ae8",
+    "js/shaders/renderRect.js": "5b83bc04d7ad9ba2ac4860a10cb443e28f9416b8e4a503e1254d2e3f2fff7452",
+    "js/shaders/renderPlane.js": "0ed43e978890d122161c7d318dfbe309c3ce2a38e363daad35992d2c74952452",
+    "js/shaders/ssf/ssfDepth.js": "2768a67b6ee31dbd8d695a21c956aa1f9cc3dfff529032852a2b56941db810b0",
+    "js/shaders/ssf/ssfThick.js": "827e5dc6324d70ce362797a589ae5bc8876d4fec8131c99607d1032cdbcd8837",
+    "js/shaders/ssf/ssfRestoreNormal.js": "89764a70aa63a8d7c5894169fe7a8d9227e16a2247c0eb27b4ee5fef2cf0287b",
+    "js/shaders/ssf/ssfSmoothDepth.js": "8ff7231237b44a3640a3929854421dcf9f39b5e032e498d11dd5f6526e666f00",
+    "js/shaders/ssf/ssfShading.js": "8bc27c41e7ca8b9cafc5a9086fed6191cfa8711a5deda4b4c7312418bdffd2e8",
+    "js/shaders/ssf/skybox.js": "827111aabaee5edec1b84910bb8c4d724ea5cbbeef98c8674517bf46c6afd583",
+    "js/utils.js": "1a4c4022090db3424464d9ffcb40aa77317ff8a7dc23da15bf62d1d707cc49ac",
+    "js/camera.js": "620beb7728e27d3387fe3dd898507b4f5e7e6960b21a338c5634409ea19202f5",
+    "js/pbf.js": "b8911a5e5a6f8699d18c11df52fe70e9b0965cdde919e5cef5619ed37d4cfea3",
+    "js/SSFRenderer.js": "949e1c2d743c4a949b74164e391eccf8f5b2924a68dd73038b361cc7830a5715",
+    "js/skybox.js": "0cf60a41f295d83cb02ab93be81de8896b871f99284819a1214f283baba533ba"
+  },
+  "solver_and_shader_algorithm": "PBF/neighbor/depth/smooth/thickness/normal algorithms unchanged; thickness disc boundary has finite sqrt(max(0,...)) precision guard; final shading ports WaterBall Schlick^5 and RGB Beer-Lambert plus standard GLSL Snell refract; checker floor removed; exact Three r158 separable Gaussian smooths raw thickness",
+  "integration_changes": [
+    "original full default 50000 request / 50653 initialized particles",
+    "original fixed 500\u00b2 SSFR / 35\u00b0 camera",
+    "Fallback-only CC0 Poly Haven StudioSmall09 photographic cube512\u00b2, WebP95; primary original WaterBall cubemap unchanged",
+    "cache uniform/attribute locations",
+    "fix source TEXTURE_WARP typo and allocation-only framebuffer validation order",
+    "omit GUI/stats/export/collision wire/floor; do not call readback methods",
+    "Upstream ssfThick sqrt edge precision guard: prevents NaN additive thickness, measured native before/after, no solver redesign"
+  ],
+  "source_bundle_bytes": 112288,
+  "additional_mature_filter": "Exact MIT Three r158 HorizontalBlurShader + VerticalBlurShader9tap weights, full500\u00b2 Gaussian thickness smoothing"
+}

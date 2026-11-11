@@ -1,0 +1,26 @@
+{
+  "version": "v19",
+  "reference": "https://dgfx.github.io/codrops-dreamy-particles/example4.html",
+  "repository": "https://github.com/DGFX/codrops-dreamy-particles",
+  "base": "actual Example4 / GPGPU source, original spring/repulsion and point foundation, complete five-mip Bloom/Output",
+  "licensing": "Bundled Three MIT notices retained; no unknown example license or Marvel image license invented",
+  "official_art": "https://cdn.marvel.com/content/2x/005smp_ons_mas_mob_01.jpg",
+  "image_quality": "1680x800 source -> original-resolution 820x800 lossless crop, full hair",
+  "model": "stock Three PlaneGeometry alpha-weighted photo sampling via source MeshSurfaceSampler; no sculpted character model",
+  "effect": "actual source BVH raycast, spring and mouse repulsion, .85 speed decay; no novel scatter shader/target/global opacity animation",
+  "static_output_extension": "photo RGB + image cutout alpha only",
+  "particle_count": 1440000,
+  "state_resolution": 1200,
+  "source_camera": "50deg / z1.5 / original OrbitControls, zoom=false, pan=false",
+  "artistic_post": "full bloom .35/.42/0, no quality downgrade",
+  "idle": "gentle .18-amplitude source mouse event, after6s idle,24s loop",
+  "reference_interactions": "actual raycast callback + original mouse/touch orbit controls",
+  "qa_boundary": "native actual GLSL/DOM/input, not browser transfer/UI/FPS",
+  "round2": {
+    "base": "Actual DGFX codrops-dreamy-particles",
+    "extension": "Exact Ashima webgl-noise simplex3D MIT + parameterized source repulsion/spring",
+    "source": "https://github.com/ashima/webgl-noise",
+    "particles": 1440000,
+    "noOverlayOrTarget": true
+  }
+}

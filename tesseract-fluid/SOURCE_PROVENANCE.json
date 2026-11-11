@@ -1,0 +1,29 @@
+{
+  "reference": "https://waterball.netlify.app/",
+  "repository": "https://github.com/matsuoka-601/waterball",
+  "author": "matsuoka-601",
+  "license": "MIT, actual LICENSE fetched this turn and retained locally",
+  "source_bundle": "index-BIeLGpkt.js",
+  "source_sha256": "01b9ae8a23cf78c9abea95ccb823539cb8d110dccd4b193aa921a6f5d561f980",
+  "basis": "Actual original MLS-MPM WebGPU solver, all original WGSL strings/camera/math/environment/full passes",
+  "replacement": "Official Loki DOM portrait, themed UI, autonomous compression/rotation, original dambreak initializer with source-solver preroll",
+  "quality": "60000 particles; source medium grid and full filters; source fixed .7 CSS render scale; no adaptive downgrade",
+  "webgl2_compatibility": {
+    "source": "https://github.com/xuxmin/pbf",
+    "demo": "https://xuxmin.github.io/pbf/",
+    "author": "Xianmin Xu",
+    "license": "MIT, Copyright (c) 2020 Xianmin Xu",
+    "fallback_only": true,
+    "solver": "original PBF, not primary MLS-MPM",
+    "particles": 50653,
+    "constraint_iterations": 4,
+    "original_ssfr_size": [
+      500,
+      500
+    ],
+    "all_fluid_passes": true,
+    "new_fluid_shaders": false,
+    "transport": "lazily loaded minified exact published source with adapter fixes",
+    "primary_unchanged": true
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asset": "Portable CD Player",
+  "source": "https://grab3d.com/models/electronics/cd-player/",
+  "download": "https://grab3d.com/dl/cd-player/cd-player.glb",
+  "license": "CC0 1.0",
+  "triangles": 11524,
+  "moving_parts": "authored lid / own hinge pivot",
+  "textures": "original full2K PBR",
+  "changes": "desaturate base-color at upload, brushed-metal/clear-acrylic PBR assignment; authored mesh/UVs/normals intact; no hand-built model",
+  "publisher_page_verified": "2026-11-10 Asia/Shanghai"
+}

@@ -1,0 +1,41 @@
+{
+  "version": "v17",
+  "reference": "https://lusion.co/",
+  "base": "actual original HomeBalloons source, camera, optics, light and complete post chain",
+  "asset": {
+    "title": "Arc Reactor",
+    "author": "Heiko Jakob",
+    "url": "https://poly.pizza/m/efgURjIpJbm",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "authored_parts": 92,
+    "raw_glb_sha256": "a1ac1ae31b829ee54c47ff48b1b57322294be93d6710d2368fb16dbfbd005a60",
+    "public_gzip_sha256": "52aa05a1f71bac3a0cae1f31fbbabb07ae5e71552d69e0bd1462c0eff95bab20",
+    "path": "reference/assets/models/home/cross.buf",
+    "geometry_changes": "none; affine mounting only",
+    "materials": "existing source optics and Three MeshBasicMaterial on existing central cap"
+  },
+  "replaced": "retired procedural v15 rings/coils and detached portrait; hidden original demo crosses",
+  "analytic_cross_field": "disabled for this asset, not falsely presented as reactor ray tracing",
+  "interactions": [
+    "source pointer/touch paint and input field",
+    "actual scrollViewDelta paint path",
+    "palette tap",
+    "drag parallax",
+    "wheel framing",
+    "6s idle autoplay"
+  ],
+  "quality": "92 original parts, fixed full HD FFT/SMAA/transmission chain, source DPR cap 1.5",
+  "qa_boundary": "native GLES3 and DOM host, not real browser/transfer/FPS proof",
+  "round2": {
+    "PBR": "Exact official Three r158 material constructors / same engine GGX and physical transmission",
+    "materialSource": "https://github.com/mrdoob/three.js/tree/r158/src/materials",
+    "HDRI": "Poly Haven StudioSmall09 CC0 photographic1k RGBE, exact source lossless-gzip transport; original same-engine PMREM",
+    "HDRIFilter": "Original same-engine PMREMGenerator",
+    "smearRemoved": true,
+    "coreAuthoredNodes": [
+      48,
+      55
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "reference": "https://www.bubbbly.com/cd-case",
+  "author": "Ann Nguyen",
+  "downloaded_shanghai": "2026-11-10 13:51",
+  "basis": "actual public page renderer, full shaders/geometry/camera and tree-shaken original dependencies",
+  "license": "No open-source license found; origin and author retained. Not relicensed as our original code.",
+  "original_bundle": "cd-case-11ca7ec3cf7669ea.js",
+  "unmodified_snapshot": "_research/v4-original/cd-case/renderer-isolated-unmodified.js",
+  "current_version": "v9",
+  "v7_changes_historical_superseded": [
+    "Source holo preset and full-annulus official character die-cut sticker composition",
+    "Plastic IOR scalar 1.59 to 1.49 per owner browser QA; shader function bodies, studio lighting and camera unchanged",
+    "Autonomous lifted-disc tilt .30 to .10 rad to avoid saturating original strip mirror",
+    "Gamma-lifted official cover photos and change-only HUD writes"
+  ],
+  "v9_changes": [
+    "Restore original e8/eX/eH four-case pop/switch choreography; original transition curves byte-identical",
+    "Four independent official-character cover/label assets; artwork on LABEL side only",
+    "Original DATA-side no-art shader early-return unchanged; lifted disc flips on X",
+    "Open dwell 0.25 to 6.2s, extra disc lift/flip choreography",
+    "Keep IOR=1.49, cover gamma=.73, low Y lift angle=.10 rad",
+    "Shared insert geometry, stable full-quality worker rendering"
+  ],
+  "browser_qa_correction_v12": {
+    "no_redesign": true,
+    "original_pointer_handlers_restored": true,
+    "idle_autoplay_resume_seconds": 6,
+    "rim_reflection_gain": 0.55,
+    "straight_transmission_mix": 0.24,
+    "DATA_geometry_group_and_fragment_art_free": true,
+    "label_material_hidden_when_back_facing": true,
+    "source_camera_geometry_lighting_passes_retained": true,
+    "shader_delta": "original rod optical calculation scalar mix; original DATA branch specialized with no artwork sampling"
+  }
+}

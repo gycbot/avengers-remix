@@ -1,0 +1,58 @@
+[
+  {
+    "character": "iron-man",
+    "track": "Iron Man 3",
+    "artist": "Brian Tyler",
+    "album": "Iron Man 3 (Original Motion Picture Soundtrack)",
+    "catalog_url": "https://music.apple.com/us/album/iron-man-3/1446737070?i=1446737236&uo=4",
+    "preview_source": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/98/f9/47/98f94794-a2cd-1e28-045b-d0debfab7014/mzaf_11155781252453556725.plus.aac.p.m4a",
+    "file": "cd-case/assets/audio/iron-man.m4a",
+    "bytes": 366196,
+    "seconds": "29.998730",
+    "codec": "aac",
+    "bitrate": "96060",
+    "loop_edit": "0.25s fade in /0.7s fade out; about30s official catalog excerpt; user gesture only"
+  },
+  {
+    "character": "cap",
+    "track": "Captain America March",
+    "artist": "Alan Silvestri",
+    "album": "Captain America: The First Avenger (Original Motion Picture Soundtrack)",
+    "catalog_url": "https://music.apple.com/us/album/captain-america-march/1440625873?i=1440626599&uo=4",
+    "preview_source": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/16/0f/b5/160fb5e1-24c1-f6d5-d6b8-6521dc3551b7/mzaf_16699399003846076098.plus.aac.p.m4a",
+    "file": "cd-case/assets/audio/cap.m4a",
+    "bytes": 366455,
+    "seconds": "29.998730",
+    "codec": "aac",
+    "bitrate": "96129",
+    "loop_edit": "0.25s fade in /0.7s fade out; about30s official catalog excerpt; user gesture only"
+  },
+  {
+    "character": "thor",
+    "track": "Sons of Odin",
+    "artist": "Patrick Doyle",
+    "album": "Thor (Soundtrack from the Motion Picture)",
+    "catalog_url": "https://music.apple.com/us/album/sons-of-odin/1440619739?i=1440620001&uo=4",
+    "preview_source": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/76/70/91/76709140-8320-b669-c231-144f286ecfe7/mzaf_1167760844415249785.plus.aac.p.m4a",
+    "file": "cd-case/assets/audio/thor.m4a",
+    "bytes": 366572,
+    "seconds": "29.998730",
+    "codec": "aac",
+    "bitrate": "96160",
+    "loop_edit": "0.25s fade in /0.7s fade out; about30s official catalog excerpt; user gesture only"
+  },
+  {
+    "character": "strange",
+    "track": "The Master of the Mystic End Credits",
+    "artist": "Michael Giacchino",
+    "album": "Doctor Strange (Original Motion Picture Soundtrack)",
+    "catalog_url": "https://music.apple.com/us/album/the-master-of-the-mystic-end-credits/1440809389?i=1440809984&uo=4",
+    "preview_source": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7b/26/76/7b26760c-7ce3-cf09-bb6c-e7c60f88163e/mzaf_4214747484537736738.plus.aac.p.m4a",
+    "file": "cd-case/assets/audio/strange.m4a",
+    "bytes": 366988,
+    "seconds": "29.998730",
+    "codec": "aac",
+    "bitrate": "96271",
+    "loop_edit": "0.25s fade in /0.7s fade out; about30s official catalog excerpt; user gesture only"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "asset": "Studio Small09",
+  "author": "Poly Haven",
+  "license": "CC0",
+  "page": "https://polyhaven.com/a/studio_small_09",
+  "source": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/studio_small_09_1k.hdr",
+  "resolution": [
+    1024,
+    512
+  ],
+  "transport": "lossless gzip of the exact downloaded original RGBE; no downsampling or radiance change",
+  "sha256Original": "e7cfda5f4e98e623db12b8bfd0184e048488e4855d9c83e2751fb44a32e80c45"
+}
