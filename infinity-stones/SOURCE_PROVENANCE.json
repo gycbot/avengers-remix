@@ -76,5 +76,12 @@
       "path": "assets/mature/studio_small_03_1k.hdr",
       "sha256": "30933d55e45f0795daf49f3cbefbe0e5ebcb821ee04fb0a2818c02ffc3938817"
     }
+  },
+  "t41LocalRevision": {
+    "date": "2026-11-11 Asia/Shanghai",
+    "sceneSource": "UF preserved from qa/standalone-gaussian-t32/reference/renderer.js",
+    "mainReality": "same diamond geometry and unchanged approved BVH gem function; static elliptical ruby",
+    "newParticleTargets": "locally generated 64^3 gradient/SDF for tesseract, sphere and eye; script qa/t41/generate-current-targets.py",
+    "publication": "none"
   }
 }

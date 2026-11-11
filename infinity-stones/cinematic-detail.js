@@ -1,7 +1,7 @@
 // t31: the crystal fills the screen. Original jF navigation/compositor/DOM HUD remain; no displayed gem silhouette or vessels.
-import * as O from './reference/renderer.js?build=infinity-v8';
-import {stones} from './stones.js?build=infinity-v8';
-import {createFullbleedCrystal} from './mature-runtime.js?build=infinity-v8';
+import * as O from './reference/renderer.js?build=infinity-v11';
+import {stones} from './stones.js?build=infinity-v11';
+import {createFullbleedCrystal} from './mature-runtime.js?build=infinity-v11';
 export async function installCinematicDetails(controller){
  const detail=controller.detailScene,renderer=O.engine.renderer.webgl,models=[],state={index:0,open:false,entered:0,dolly:1,sequence:0,preparedFrames:0,leaving:false},pointer={x:0,y:0};
  const originals=[...detail.children];for(const child of originals)if(!child.isCamera&&!child.isLight)child.visible=false;

@@ -1,4 +1,4 @@
-import {Color} from './reference/renderer.js?build=infinity-v8';
+import {Color} from './reference/renderer.js?build=infinity-v11';
 // t36: preserve Igloo's advected frost + facet rim, but make its splat defined at rest.
 // The source line-distance divides by dot(ba,ba); a first/stationary hover has ba=0.
 // Its radius is also exactly 0 until velocity exceeds the smoothstep threshold.
